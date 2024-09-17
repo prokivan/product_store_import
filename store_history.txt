@@ -1,0 +1,45 @@
+Time change: 2024-09-17 19:39:00
+Current balance: -200
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}]
+
+Time change: 2024-09-17 19:39:00
+Current balance: -280
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}, {'Category': 'Food', 'Name': 'Fish', 'Price': 20, 'Amount': 4, 'Discount': 0}]
+
+Time change: 2024-09-17 19:39:00
+Current balance: -491.5
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}, {'Category': 'Food', 'Name': 'Fish', 'Price': 20, 'Amount': 4, 'Discount': 0}, {'Category': 'Food', 'Name': 'Protein', 'Price': 70.5, 'Amount': 3, 'Discount': 0}]
+
+Time change: 2024-09-17 19:39:00
+Current balance: -308.2
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}, {'Category': 'Food', 'Name': 'Fish', 'Price': 20, 'Amount': 4, 'Discount': 0}, {'Category': 'Food', 'Name': 'Protein', 'Price': 70.5, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-09-17 19:39:00
+Current balance: -256.2
+Products in store:
+[{'Category': 'Sport', 'Name': 'Football T-Shirt', 'Price': 100, 'Amount': 2, 'Discount': 0}, {'Category': 'Food', 'Name': 'Fish', 'Price': 20, 'Amount': 2, 'Discount': 0}, {'Category': 'Food', 'Name': 'Protein', 'Price': 70.5, 'Amount': 1, 'Discount': 0}]
+
+Time change: 2024-09-17 19:42:00
+Current balance: -51.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 34, 'Discount': 0}]
+
+Time change: 2024-09-17 19:42:00
+Current balance: -81.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 54, 'Discount': 0}]
+
+Time change: 2024-09-17 19:42:00
+Current balance: -2081.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 54, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Bike', 'Price': 400, 'Amount': 5, 'Discount': 0}]
+
+Time change: 2024-09-17 19:42:00
+Current balance: -1561.0
+Products in store:
+[{'Category': 'Food', 'Name': 'Ramen', 'Price': 1.5, 'Amount': 54, 'Discount': 0}, {'Category': 'Sport', 'Name': 'Bike', 'Price': 200.0, 'Amount': 3, 'Discount': 50}]
+
